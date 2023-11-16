@@ -466,7 +466,7 @@ h3.mega_menu_heading {
 }
 
 .megasix-box {
-  height: 250px;
+  height: 130px;
 }
 
 .megasix-box p {
@@ -479,7 +479,7 @@ h3.mega_menu_heading {
 
 .megasix-box-one img {
   display: inline-block;
-  width: 85px;
+  width: 50px;
 }
 
 .megasix-box-two {
@@ -488,7 +488,7 @@ h3.mega_menu_heading {
 
 .megasix-box-two img {
   display: inline-block;
-  width: 75px;
+  width: 45px;
 }
 
 .megasix-box-three {
@@ -497,7 +497,7 @@ h3.mega_menu_heading {
 
 .megasix-box-three img {
   display: inline-block;
-  width: 50px;
+  width: 30px;
 }
 
 .megasix-box-four {
@@ -506,7 +506,7 @@ h3.mega_menu_heading {
 
 .megasix-box-four img {
   display: inline-block;
-  width: 28px;
+  width: 14px;
 }
 
 .megasix-box-five {
@@ -515,7 +515,7 @@ h3.mega_menu_heading {
 
 .megasix-box-five img {
   display: inline-block;
-  width: 62px;
+  width: 32px;
 }
 
 .megasix-box-six {
@@ -524,7 +524,7 @@ h3.mega_menu_heading {
 
 .megasix-box-six img {
   display: inline-block;
-  width: 185px;
+  width: 67px;
 }
 
 .megasix-box {
@@ -532,7 +532,7 @@ h3.mega_menu_heading {
   flex-direction: column;
   justify-content: end;
   align-items: center;
-  padding-bottom: 35px;
+  padding-bottom: 15px;
 }
 /* -- mega menu end -- */
 
